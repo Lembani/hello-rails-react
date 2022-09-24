@@ -2,6 +2,8 @@
 
 # Hello Rails React
 
+> A Hello World app build with Rails and React.
+
 ## Built With
 
 - Ruby on Rails
