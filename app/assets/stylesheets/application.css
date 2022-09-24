@@ -14,23 +14,23 @@
  *= require_self
  */
 
- body {
+body {
   color: cadetblue;
   font-family: Verdana, sans-serif;
- }
+}
 
- button {
+button {
   background-color: cadetblue;
   color: #fff;
   border: 0;
   border-radius: 6px 6px;
   padding: 8px 8px;
   font-size: 16px;
- }
+}
 
- button:hover {
+button:hover {
   cursor: pointer;
   background-color: #fff;
   color: cadetblue;
   border: 1px solid cadetblue;
- }
+}
